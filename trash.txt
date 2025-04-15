@@ -1,0 +1,16 @@
+const wl = require('../whitelist.js'); 
+
+
+
+
+
+const userId = interaction.user.id; 
+
+
+
+
+
+
+
+!wl.includes(userId) &&
+
